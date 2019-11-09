@@ -1,0 +1,6 @@
+Para instalar OpenAL
+sudo apt-get install libopenal-dev
+
+Para instalar OpenAL
+sudo apt-get install libopencv-dev
+
